@@ -1,0 +1,1 @@
+D:/Praca/Programowanie/CPP/Bimberman/Syzyf-Engine/res

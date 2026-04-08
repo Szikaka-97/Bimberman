@@ -1,0 +1,25 @@
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+imgui.ini
+
+[Bb]uild/
+.vscode/
+.vs/
+out/
+res/testing/
+
+.idea/
+
+# Clang
+.cache/
+
+# Nix
+.direnv/
+

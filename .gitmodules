@@ -1,0 +1,3 @@
+[submodule "Syzyf-Engine"]
+	path = Syzyf-Engine
+	url = https://github.com/Szikaka-97/Syzyf-Engine.git
