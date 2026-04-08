@@ -49,8 +49,10 @@ add_custom_command(
 	${CMAKE_CURRENT_BINARY_DIR}/res
 )
 
+if(WIN32)
 configure_file(
 	${CMAKE_BINARY_DIR}/_deps/joltphysics-build/libJolt.dll
 	${CMAKE_CURRENT_BINARY_DIR}/libJolt.dll
 	COPYONLY
 )
+endif()
